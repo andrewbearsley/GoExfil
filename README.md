@@ -2,7 +2,7 @@ This script pulls data down some random endpoints and then attempts to post it t
 
 Usage:
 
-cd GoExfil
-go build
-./mod
+cd GoExfil<br>
+go build<br>
+./mod<br>
 
