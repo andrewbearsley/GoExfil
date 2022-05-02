@@ -20,7 +20,7 @@ func init() {
 //"https://raw.githubusercontent.com/json-iterator/test-data/master/large-file.json"
 
 func main() {
-	log.Println("mining started, gotta get that internet GOLD!")
+	log.Println("Starting simulated exfiltration...")
 	a := []string{"http://api.ipify.org?format=text", "https://photobucket.com", "https://dog.ceo/api/breeds/image/random", "https://deelay.me/8000/https://picsum.photos/200/300"}
 	for i, s := range a {
 		x := 0
