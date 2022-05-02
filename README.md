@@ -7,5 +7,5 @@ Usage:
 
 cd GoExfil<br>
 go build<br>
-./mod<br>
+go run BasicExfil.go<br>
 
