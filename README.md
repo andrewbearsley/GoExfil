@@ -4,8 +4,9 @@ Prerequisites:
 Golang (ag. apt install golang)
 
 Usage:
-
-cd GoExfil<br>
-go build<br>
-go run BasicExfil.go<br>
+```
+cd GoExfil
+go build
+go run BasicExfil.go
+```
 
